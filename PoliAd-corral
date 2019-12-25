@@ -13,6 +13,8 @@ endoftheamericandream.com#@#a[href^="http://endoftheamericandream.com"]
 endoftheamericandream.com#@#a[href^="http://www.endoftheamericandream.com"]
 ||endoftheamericandream.com^$popup,third-party
 ! http://www.4thmedia.org/
+||foxnews.com^$all
+||infowars.com^$all
 ##a[href^="http://4thmedia.org"]
 ##a[href^="http://www.4thmedia.org"]
 4thmedia.org#@#a[href^="http://4thmedia.org"]
